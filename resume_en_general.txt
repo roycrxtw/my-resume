@@ -1,0 +1,24 @@
+Dear Hiring Manager,
+
+My name is Roy Lu.  I am looking forward a Front-end developer opportunity. 
+
+I graduated from the Tunghai University. I focus on web application development and specialise in front-end and back-end skills. I built side projects based on client-server architecture from scratch. My latest project is Beautyland. It's an image gallery service which displays pictures of the PTT Beauty board in an elegant manner. It is a Single Page Application based on react-redux and a Node.js server worked with mongodb which provides a RESTful API as the data service.
+
+All my personal projects can be found at https://royvbtw.uk/ and the github https://github.com/royvbtw
+
+These projects has equipped me with skills such as:
++ To build a project from concept to release
++ Knowledge and experiences for react, redux, node.js and mongodb
++ To be familiar with Amazon web services ec2, s3 and codeDeploy
++ How to develop a project independently
++ Most importantly, how to choose appropriate technology and implementation to solve problems
+
+I really enjoy developing software from concept to reality. It gave me a great deal of pleasure and motivated me to get more knowledge and get involve in the software industry.
+
+Although I did those projects independently, I love to work with teammates towards a common, worthwhile goal as well. 
+
+Thank you for your time and consideration. I would appreciate the opportunity to discuss my application with you and look forward to hearing from you.
+
+Yours faithfully,
+
+Roy Lu
